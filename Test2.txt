@@ -1,5 +1,5 @@
 this is my second file to add file from workspace to GitHub.
-1. git add test2.txt
+1. git add Test2.txt
 2. git commit -m create file test2.txt
 3. git push origin main
 
